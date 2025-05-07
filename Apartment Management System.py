@@ -32,7 +32,7 @@ elif rd==3:
 img=PhotoImage(file="C:\\Users\\aravi\\OneDrive\\Pictures\\Lake Drive Apartments.png")
 p=Label(r,image=img,compound='top').place(x=150,y=20)
 def log():
-    if (u.get(),p.get())==('Aravind','IchigoGOD878') or (u.get(),p.get())==('Satvik','Asta#911') or (u.get(),p.get())==('Gambhir','LuffyKaizoku@272'):
+    if (u.get(),p.get())==('User1','PW1') or (u.get(),p.get())==('USer2','PW2') or (u.get(),p.get())==('User3','PW3'):
         messagebox.showinfo(title='Login',message='Logged in successfully')
         r.destroy()
         import Supporter
