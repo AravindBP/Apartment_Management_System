@@ -1,0 +1,8 @@
+This has been done with the help
+of both tkinter module in pyhton
+and mysql.Mysql is software use for 
+storing data securely. Tkinter is used 
+for making GUI and other things.
+This was also done by connecting
+Mysql and Python.
+
